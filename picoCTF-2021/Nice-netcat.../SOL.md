@@ -1,0 +1,3 @@
+# Nice netcat...
+- Download & install netcat, then just run the given command
+- It will spit out many numbers, convert them to ascii using an online tool, I used [CyberChef](https://gchq.github.io/CyberChef/#recipe=From_Charcode('Space',10))
