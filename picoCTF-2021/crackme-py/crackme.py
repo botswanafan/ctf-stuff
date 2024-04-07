@@ -50,5 +50,5 @@ def choose_greatest():
         + str(greatest_value) )
 
 
-
+decode_secret(bezos_cc_secret)
 choose_greatest()
