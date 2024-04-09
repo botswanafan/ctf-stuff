@@ -1,0 +1,4 @@
+# repetitions
+- Download the file given
+- From the last two equal signs at the end of the text, this looks to be a base64 encoded string.
+- Using cyber chef we get the flag after spamming base64 recipes: [A link to the recipe that I used for this chall](https://gchq.github.io/CyberChef/#recipe=From_Base64('A-Za-z0-9%2B/%3D',true,false)From_Base64('A-Za-z0-9%2B/%3D',true,false)From_Base64('A-Za-z0-9%2B/%3D',true,false)To_Base64('A-Za-z0-9%2B/%3D')From_Base64('A-Za-z0-9%2B/%3D',true,false)From_Base64('A-Za-z0-9%2B/%3D',true,false)From_Base64('A-Za-z0-9%2B/%3D',true,false)From_Base64('A-Za-z0-9%2B/%3D',true,false))
