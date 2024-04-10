@@ -1,3 +1,6 @@
+# Hand generated for some large files that some ctfs use
+amateurs-ctf/amateurs-2024/cookie/out.txt
+# Taken from the vscode gitignore
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
