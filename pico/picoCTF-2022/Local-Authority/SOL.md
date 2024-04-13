@@ -1,0 +1,2 @@
+# Local Authority
+- Inspect the secure.js file, it contains both the password and the username in cleartext. My username was: `admin` and my password was `strongPassword098765`, which I entered to get the flag in cleartext
