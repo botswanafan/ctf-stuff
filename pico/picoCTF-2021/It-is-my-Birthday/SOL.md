@@ -1,0 +1,5 @@
+# It is my Birthday
+- From the chall description, it appears that we need to submit two pdf's with the same hash. Luckily, Google did this back in 2017 [so we can just upload the same pdfs and get the sol](https://security.googleblog.com/2017/02/announcing-first-sha1-collision.html)
+- Download the pdfs at: [PDF-1](https://shattered.io/static/shattered-1.pdf), [PDF-2](https://shattered.io/static/shattered-2.pdf)
+- However, these files are too big! Thus we will have to find another smaller collion that already exists, which can be found at: [this exe](https://www.mscs.dal.ca/~selinger/md5collision/hello.exe), and [this exe](https://www.mscs.dal.ca/~selinger/md5collision/erase.exe)
+- After uploading these, we get a php file, but one of the lines contains: `FLAG: picoCTF`, and the flag has been found
