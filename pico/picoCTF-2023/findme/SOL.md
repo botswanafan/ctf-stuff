@@ -1,0 +1,3 @@
+# findme
+- Open the given webpage
+- Log in with the given password, but make sure to have the network tab open. Once you enter the login details, you are redirected to a webpage similar to: `/next-page/id=cGljb0NURntwcm94aWVzX2Fs`, whose contents include something similar to: `window.location = "/next-page/id=bF90aGVfd2F5X2RmNDRjOTRjfQ==";`. The two id= can be combined into a base64 string, which decrypts to the flag
